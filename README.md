@@ -1,1 +1,1 @@
-# Shalom!
+# Shalom! 😎
