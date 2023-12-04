@@ -1,15 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinWoo%20Moon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Standard%20C%20Developer&descAlignY=51&descAlign=72)
 
 # <p align='center'> Hi There 👋</p>
-## Stacks
+## Main Stacks
 <div>
   <img src="https://img.shields.io/badge/ANSI C/C99-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-512BD4?logo=Csharp&style=flat">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/RISC%2D%2DV-283272?style=flat-square&logo=riscv&logoColor=white">
@@ -21,9 +16,10 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/CISCO IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
 </div>
-
-### 
-
+<div>
+  <img src="https://img.shields.io/badge/Linux Utility-FCC624?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+</div>
 
 ## Github Stats 
 <table>
